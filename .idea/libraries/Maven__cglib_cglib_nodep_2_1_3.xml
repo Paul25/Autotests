@@ -8,6 +8,7 @@
     </JAVADOC>
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib-nodep/2.1_3/cglib-nodep-2.1_3-sources.jar!/" />
+      <root url="file://$USER_HOME$/Documents/My Received Files/WorkDoc/Installed programms/My Settings/chromedriver_win32" />
     </SOURCES>
   </library>
 </component>
